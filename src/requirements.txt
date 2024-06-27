@@ -1,0 +1,4 @@
+chromadb
+langchain_community
+langchain
+gradio
