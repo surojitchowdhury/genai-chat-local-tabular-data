@@ -22,3 +22,4 @@ Live Demo: https://www.youtube.com/watch?v=29f-oViiI_s
 
 The application doesn't need any internet connection, any API Keys to run. So effectively IT IS FREE to RUN!!!
 
+Read the blog here: https://medium.com/@surojitchowdhury/what-if-everyone-can-ask-questions-on-their-data-securely-and-free-ca911ff36489
